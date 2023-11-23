@@ -14,7 +14,7 @@
 <h3>Certificacion</h3>
 <h4>FreeCodeCamp</h4>
 <figure>
-  <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/Responsive%20Web%20Design.png" alt="certificado Responsive Web Design"/>
+  <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/Responsive%20Web%20Design.png" alt="certificado Responsive Web Design" width=100px/>
     <figcaption>Responsive Web Design</figcaption>
 </figure>
 
