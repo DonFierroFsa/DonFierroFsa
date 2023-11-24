@@ -32,9 +32,8 @@
 <h3>Certifications</h3>
 <h4>Open-BootCamp</h4>
 <figure>
-    <embed  src="CSS3.pdf"
-        type="application/pdf"
-         width="850px" height="1200px"/>
+    <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/diplomas_6c4806d6-9e55-44e8-b396-cabd28e99543.pdf" alt="Introduction to programming"
+         width="150px" height="300px">
     <figcaption>
         Introduction to programming </figcaption>
 </figure>
