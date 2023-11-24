@@ -47,7 +47,7 @@
 <h3>Certifications</h3>
 <h4>Open-BootCamp</h4>
 <figure>
-    <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/diplomas_6c4806d6-9e55-44e8-b396-cabd28e99543.pdf"
+    <embed src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/diplomas_6c4806d6-9e55-44e8-b396-cabd28e99543.pdf"
         alt="Introduction to Programming" width="150px">
     <figcaption>
         Introduction to programming </figcaption>
@@ -78,7 +78,6 @@
     <figcaption>Js Algorithms and Data Structures</figcaption>
 </figure>
 <h4>Ademmas</h4>
-
 <figure>
     <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/HTML.pdf" alt="HTML" width="150px">
     <figcaption>HTML5</figcaption>
