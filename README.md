@@ -57,6 +57,7 @@
 </figure>
                 <hr>
 <h4>FreeCodeCamp</h4>
+                  <br>
 <figure>
     <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/Responsive%20Web%20Design.png"
         alt="certificado Responsive Web Design" width="150px" />
