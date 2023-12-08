@@ -37,10 +37,10 @@
          width="150px" height="300px">
     <figcaption>
         Introduction to programming </figcaption>
+          <br>  
 </figure>
-                <br>  
-                <br>   
-                <br>
+          
+                
 <figure>
     <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/diplomas_534afcd4-8c4b-4df8-bc2a-92591f79327e.pdf"
         alt="Programming Concepts" width="150px">
