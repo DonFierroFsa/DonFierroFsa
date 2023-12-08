@@ -30,6 +30,7 @@
         rel="noreferrer">
 </p>
 <h3>Certifications</h3>
+                <br>
 <h4>Open-BootCamp</h4>
 <figure>
     <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/diplomas_6c4806d6-9e55-44e8-b396-cabd28e99543.pdf" alt="Introduction to programming"
@@ -37,20 +38,24 @@
     <figcaption>
         Introduction to programming </figcaption>
 </figure>
+                <br>
 <figure>
     <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/diplomas_534afcd4-8c4b-4df8-bc2a-92591f79327e.pdf"
         alt="Programming Concepts" width="150px">
     <figcaption>Programming Concepts</figcaption>
 </figure>
+                <br>
 <figure>
     <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/diplomas_78090069-9fa0-4bff-9854-fcd4a83fc578.pdf"
         alt="html y Css" width="150px">
     <figcaption>HTML5 y Css</figcaption>
 </figure>
+                <br>
 <figure>
     <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/diplomas_32346759-8aac-4f4b-8897-0edf87a830f3.pdf" alt="Basic Java">
     <figcaption>Basic Java</figcaption>
 </figure>
+                <hr>
 <h4>FreeCodeCamp</h4>
 <figure>
     <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/Responsive%20Web%20Design.png"
