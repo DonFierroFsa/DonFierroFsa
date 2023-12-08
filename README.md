@@ -36,23 +36,19 @@
     <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/diplomas_6c4806d6-9e55-44e8-b396-cabd28e99543.pdf" alt="Introduction to programming"
          width="150px" height="300px">
     <figcaption>
-        Introduction to programming     <br>   </figcaption>
+        Introduction to programming</figcaption>
       
 </figure>
-          
-                
 <figure>
     <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/diplomas_534afcd4-8c4b-4df8-bc2a-92591f79327e.pdf"
         alt="Programming Concepts" width="150px">
     <figcaption>Programming Concepts</figcaption>
 </figure>
-                <br>
 <figure>
     <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/diplomas_78090069-9fa0-4bff-9854-fcd4a83fc578.pdf"
         alt="html y Css" width="150px">
     <figcaption>HTML5 y Css</figcaption>
 </figure>
-                <br>
 <figure>
     <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/diplomas_32346759-8aac-4f4b-8897-0edf87a830f3.pdf" alt="Basic Java">
     <figcaption>Basic Java</figcaption>
@@ -65,13 +61,15 @@
         alt="certificado Responsive Web Design" width="150px" />
     <figcaption>Responsive Web Design</figcaption>
 </figure>
-                <br>
+               
 <figure>
     <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/Js%20Algorithms%20and%20data%20Structures-FCC.png"
         alt="Js Algorithms and Data Structures" width="150px">
     <figcaption>Js Algorithms and Data Structures</figcaption>
 </figure>
+<hr>
 <h4>Ademmas</h4>
+<br>
 <figure>
     <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/HTML.pdf" alt="HTML" width="150px">
     <figcaption>HTML5</figcaption>
