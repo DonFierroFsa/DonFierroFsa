@@ -36,8 +36,8 @@
     <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/diplomas_6c4806d6-9e55-44e8-b396-cabd28e99543.pdf" alt="Introduction to programming"
          width="150px" height="300px">
     <figcaption>
-        Introduction to programming </figcaption>
-          <br>  
+        Introduction to programming     <br>   </figcaption>
+      
 </figure>
           
                 
