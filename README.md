@@ -29,6 +29,7 @@
             alt="javascript" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank"
         rel="noreferrer">
 </p>
+                <hr><br><hr>
 <h3>Certifications</h3>
                 <br>
 <h4>Open-BootCamp</h4>
