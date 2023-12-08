@@ -62,6 +62,7 @@
         alt="certificado Responsive Web Design" width="150px" />
     <figcaption>Responsive Web Design</figcaption>
 </figure>
+                <br>
 <figure>
     <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/Js%20Algorithms%20and%20data%20Structures-FCC.png"
         alt="Js Algorithms and Data Structures" width="150px">
