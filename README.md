@@ -65,7 +65,7 @@
     </a>
            <a href="https://www.mongodb.com/es" target="_blank">
         <img
-            src=" https://www.svgrepo.com/show/373845/mongo.svg"
+            src="https://www.svgrepo.com/show/373845/mongo.svg"
             alt="mongoDb icon"
              width="40" height="40"
             />
