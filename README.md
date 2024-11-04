@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rivira Lisbel Adrián</h1>
-<h3 align="center">An Full-Stack student of Numen, and enthusiastic self-taught.</h3>
+<h2 align="center">A Full-Stack, with greater front-end experience and self-taught enthusiast.</h2>
 
 - 📫 How to reach me **riviraadrian@gmail.com**
-
+<h3> About me:</h3> 
+<p>
+I studied civil engineering, until I started working as a manager in a construction and livestock company, as a manager with personnel in charge, budgeting and project planning responsibilities.
+Work in which required solving new challenges creatively and learning new skills all the time.
+Those characteristics are what I long to bring to the field of programming.
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://instagram.com/adrianrivira" target="blank"><img align="center"
@@ -11,8 +16,8 @@
     <a href="https://discord.gg/.donfierro" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
             alt=".donfierro" height="30" width="40" /></a>
-    <h3>Cell-Phone :</h3>
-    <h4>+54 3704094513</h4>
+    <h4>Cell-Phone :</h4>
+    <h5>+54 3704094513</h5>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
