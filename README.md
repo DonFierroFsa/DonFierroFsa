@@ -24,16 +24,15 @@ Esas caracteristicas son las que anhelo llevar al campo de la programacion.</p>
     Tienda Virtual
 </h4>
 <h5>Front-End</h5>
-<a>https://coco-drug-store.vercel.app/</a>
-<a>https://github.com/DonFierroFsa/Coco-Drug-Store</a>
+<a src="https://coco-drug-store.vercel.app/">Coco-Drug-Store </a>
+<a sro="https://github.com/DonFierroFsa/Coco-Drug-Store<">Codigo Git-Hub </a>
 <h5>Back-End</h5>
-<a>https://github.com/DonFierroFsa/coco-store-api</a>
-<a></a>
+<a src="https://github.com/DonFierroFsa/coco-store-api">Api-Coco-Drug-Store</a>
 <br/>
 <h4>
 TaTeTi</h4>
-<a>https://donfierrofsa.github.io/tateti/</a>
-<a>https://github.com/DonFierroFsa/tateti.git</a>
+<a src="https://donfierrofsa.github.io/tateti/"> Ta-Te-Ti</a>
+<a src="https://github.com/DonFierroFsa/tateti.git">Codigo Git-Hub</a>
 <h3 align="left">Tecnologias:</h3>
 <p align="left">
         <a href="https://tailwindcss.com/" target="_blank">
