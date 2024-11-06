@@ -29,7 +29,12 @@ Esas caracteristicas son las que anhelo llevar al campo de la programacion.</p>
 <h5>Back-End</h5>
 <a>https://github.com/DonFierroFsa/coco-store-api</a>
 <a></a>
-<h3 align="left">Languages and Tools:</h3>
+<br/>
+<h4>
+TaTeTi</h4>
+<a>https://donfierrofsa.github.io/tateti/</a>
+<a>https://github.com/DonFierroFsa/tateti.git</a>
+<h3 align="left">Tecnologias:</h3>
 <p align="left">
         <a href="https://tailwindcss.com/" target="_blank">
         <img
