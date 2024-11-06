@@ -1,14 +1,10 @@
-<h1 align="center">Hi 👋, I'm Rivira Lisbel Adrián</h1>
-<h2 align="center">A Full-Stack, with greater front-end experience and self-taught enthusiast.</h2>
+<h1 align="center"> 👋, Rivira Lisbel Adrián</h1>
 
-- 📫 How to reach me **riviraadrian@gmail.com**
-<h3> About me:</h3> 
-<p>
-I studied civil engineering, until I started working as a manager in a construction and livestock company, as a manager with personnel in charge, budgeting and project planning responsibilities.
-Work in which required solving new challenges creatively and learning new skills all the time.
-Those characteristics are what I long to bring to the field of programming.
-</p>
-<h3 align="left">Connect with me:</h3>
+  <h3>Acerca de mi</h3>
+  <p>Estudie ingenieria civil, hasta empezar a trabajar como encargado en una empresa de construccion y ganaderia, como encargado con personal a cargo, responsabilidades de presupuesto y proyeccion en obras.
+Trabajo en el cual requeria resolver nuevos retos  de manera creativa y aprendiendo habilidades nuevas constantemente.
+Esas caracteristicas son las que anhelo llevar al campo de la programacion.</p>
+<h3 align="left">Contacteme:</h3>
 <p align="left">
     <a href="https://instagram.com/adrianrivira" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
@@ -16,17 +12,25 @@ Those characteristics are what I long to bring to the field of programming.
     <a href="https://discord.gg/.donfierro" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
             alt=".donfierro" height="30" width="40" /></a>
-    <h4>Cell-Phone :</h4>
-    <h5>+54 3704094513</h5>
+    <h3>Celular :</h3>
+    <h4>+54 3704094513</h4>
+    <h3>Email</h3>
+    <h4>📫  **riviraadrian@gmail.com**</h4>
 </p>
-
+<h3>
+    Proyectos
+</h3>
+<h4>
+    Tienda Virtual
+</h4>
+<h5>Front-End</h5>
+<a>https://coco-drug-store.vercel.app/</a>
+<a>https://github.com/DonFierroFsa/Coco-Drug-Store</a>
+<h5>Back-End</h5>
+<a>https://github.com/DonFierroFsa/coco-store-api</a>
+<a></a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" />
-    </a>
         <a href="https://tailwindcss.com/" target="_blank">
         <img
             src="https://www.svgrepo.com/show/374118/tailwind.svg"
