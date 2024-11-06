@@ -24,15 +24,17 @@ Esas caracteristicas son las que anhelo llevar al campo de la programacion.</p>
     Tienda Virtual
 </h4>
 <h5>Front-End</h5>
-<a src="https://coco-drug-store.vercel.app/">Coco-Drug-Store </a>
-<a sro="https://github.com/DonFierroFsa/Coco-Drug-Store<">Codigo Git-Hub </a>
+<a href="https://coco-drug-store.vercel.app/">Coco-Drug-Store </a>
+<br>
+<a href="https://github.com/DonFierroFsa/Coco-Drug-Store<">Codigo Git-Hub </a>
 <h5>Back-End</h5>
-<a src="https://github.com/DonFierroFsa/coco-store-api">Api-Coco-Drug-Store</a>
+<a href="https://github.com/DonFierroFsa/coco-store-api">Api-Coco-Drug-Store</a>
 <br/>
 <h4>
 TaTeTi</h4>
-<a src="https://donfierrofsa.github.io/tateti/"> Ta-Te-Ti</a>
-<a src="https://github.com/DonFierroFsa/tateti.git">Codigo Git-Hub</a>
+<a href="https://donfierrofsa.github.io/tateti/"> Ta-Te-Ti</a>
+<br>
+<a href="https://github.com/DonFierroFsa/tateti.git">Codigo Git-Hub</a>
 <h3 align="left">Tecnologias:</h3>
 <p align="left">
         <a href="https://tailwindcss.com/" target="_blank">
@@ -87,33 +89,33 @@ TaTeTi</h4>
                 <br><hr><hr>
 <h3>Certifications</h3>
                 <br>
-<h4>Open-BootCamp</h4>
-<figure>
+<h4 aling="left">Open-BootCamp</h4>
+<figure align="left" style="vertical-align: middle;>
    <figcaption>
-        Introduction to programming</figcaption>
-  <a src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/diplomas_6c4806d6-9e55-44e8-b396-cabd28e99543.pdf" >
-    <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/Introduccion%20a%20la%20programacion.bmp" alt="Introduction to programming"
-         width="150px"  ">
+        Introduction to programming
+   </figcaption>
+  <a href="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/diplomas_6c4806d6-9e55-44e8-b396-cabd28e99543.pdf" >
+    <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/Conceptos%20de%20la%20Programacion.bmp" alt="Introduction to programming"
+         width="150px">
          </a>
- 
-      
 </figure>
-<figure>
-    <figcaption>Programming Concepts</figcaption>
-  <a src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/diplomas_534afcd4-8c4b-4df8-bc2a-92591f79327e.pdf">
+<figure  style="vertical-align: middle;>
+    <figcaption>Programming Concepts </figcaption>
+  <a href="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/diplomas_534afcd4-8c4b-4df8-bc2a-92591f79327e.pdf">
     <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/Conceptos%20de%20la%20Programacion.bmp"
-        alt="Programming Concepts" width="150px"></a>
+        alt="Programming Concepts" width="150px">
+  </a>
 </figure>
-<figure>
+<figure align="left" style="vertical-align: middle;>
     <figcaption>HTML5 y Css</figcaption>
-  <a src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/diplomas_78090069-9fa0-4bff-9854-fcd4a83fc578.pdf">
+  <a href="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/diplomas_78090069-9fa0-4bff-9854-fcd4a83fc578.pdf">
     <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/Html%20Css.bmp"
         alt="html y Css" width="150px">
     </a>
 </figure>
-<figure>
+<figure align="left" style="vertical-align: middle;>
     <figcaption>Basic Java</figcaption>
-  <a src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/diplomas_32346759-8aac-4f4b-8897-0edf87a830f3.pdf">
+  <a href="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/diplomas_32346759-8aac-4f4b-8897-0edf87a830f3.pdf">
     <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/Java%20Basic.bmp" alt="Basic Java" width="150px">
     </a>
 </figure>
