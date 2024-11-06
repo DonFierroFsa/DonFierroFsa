@@ -89,25 +89,33 @@ TaTeTi</h4>
                 <br>
 <h4>Open-BootCamp</h4>
 <figure>
-    <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/diplomas_6c4806d6-9e55-44e8-b396-cabd28e99543.pdf" alt="Introduction to programming"
-         width="150px" height="300px">
-    <figcaption>
+   <figcaption>
         Introduction to programming</figcaption>
+  <a src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/diplomas_6c4806d6-9e55-44e8-b396-cabd28e99543.pdf" >
+    <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/Introduccion%20a%20la%20programacion.bmp" alt="Introduction to programming"
+         width="150px"  ">
+         </a>
+ 
       
 </figure>
 <figure>
-    <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/diplomas_534afcd4-8c4b-4df8-bc2a-92591f79327e.pdf"
-        alt="Programming Concepts" width="150px">
     <figcaption>Programming Concepts</figcaption>
+  <a src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/diplomas_534afcd4-8c4b-4df8-bc2a-92591f79327e.pdf">
+    <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/Conceptos%20de%20la%20Programacion.bmp"
+        alt="Programming Concepts" width="150px"></a>
 </figure>
 <figure>
-    <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/diplomas_78090069-9fa0-4bff-9854-fcd4a83fc578.pdf"
-        alt="html y Css" width="150px">
     <figcaption>HTML5 y Css</figcaption>
+  <a src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/diplomas_78090069-9fa0-4bff-9854-fcd4a83fc578.pdf">
+    <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/Html%20Css.bmp"
+        alt="html y Css" width="150px">
+    </a>
 </figure>
 <figure>
-    <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/diplomas_32346759-8aac-4f4b-8897-0edf87a830f3.pdf" alt="Basic Java">
     <figcaption>Basic Java</figcaption>
+  <a src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/diplomas_32346759-8aac-4f4b-8897-0edf87a830f3.pdf">
+    <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/Java%20Basic.bmp" alt="Basic Java" width="150px">
+    </a>
 </figure>
                 <hr>
 <h4>FreeCodeCamp</h4>
