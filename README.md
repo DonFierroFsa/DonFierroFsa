@@ -3,7 +3,8 @@
   <h3>Acerca de mi</h3>
   <p>Estudie ingenieria civil, hasta empezar a trabajar como encargado en una empresa de construccion y ganaderia, como encargado con personal a cargo, responsabilidades de presupuesto y proyeccion en obras.
 Trabajo en el cual requeria resolver nuevos retos  de manera creativa y aprendiendo habilidades nuevas constantemente, donde tambien aprendi la importancia del trabajo en  equipo, comunicacion y coordinacion.
-Esas caracteristicas son las que anhelo llevar al campo de la programacion.</p>
+El gaucho Martin Fierro es el personaje principal de la literatura argentina, carectirizado por el trabajo arduo en el campo, principios y valores, como la honestidad. Dicho personaje se enfrenta continuamente a retos, que lo hacen evolucionar. Este libro marco un antes y un despues junto con el trabajo en la empresa antes mencionada. De aqui reside mi imagen de perfil, ya que represnta mi personalidad, curioso, obvsesivo, en busqueda de la evolucion y crecimiento constante.
+Esas habilidades son las que anhelo llevar al campo de la programacion.</p>
 <h3 align="left">Contacteme:</h3>
 <p align="left">
     <a href="https://instagram.com/adrianrivira" target="blank"><img align="center"
