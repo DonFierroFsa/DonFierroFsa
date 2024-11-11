@@ -16,7 +16,7 @@
     <h3>Celular :</h3>
     <h4>+54 3704094513</h4>
     <h3>Email</h3>
-    <h4>📫 **riviraadrian@gmail.com** </h4>
+    <h4>📫 riviraadrian@gmail.com</h4>
 </p>
 <h3>
     Proyectos
@@ -90,6 +90,14 @@ TaTeTi</h4>
                 <br><hr><hr>
 <h3>Certifications</h3>
                 <br>
+<h4 aling="left">Numen</h4>
+                   <p>
+        Tecnicatura Desarrollo Web Full-Stack
+   <p>
+  <a href="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/diplomas_6c4806d6-9e55-44e8-b396-cabd28e99543.pdf" >
+    <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/Conceptos%20de%20la%20Programacion.bmp" alt="Introduction to programming"
+         width="150px">
+         </a>
 <h4 aling="left">Open-BootCamp</h4>
 <figure align="left" >
    <p>
