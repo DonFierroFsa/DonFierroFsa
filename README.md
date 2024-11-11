@@ -2,7 +2,7 @@
 
   <h3>Acerca de mi</h3>
   <p>Estudie ingenieria civil, hasta empezar a trabajar como encargado en una empresa de construccion y ganaderia, como encargado con personal a cargo, responsabilidades de presupuesto y proyeccion en obras.
-Trabajo en el cual requeria resolver nuevos retos  de manera creativa y aprendiendo habilidades nuevas constantemente.
+Trabajo en el cual requeria resolver nuevos retos  de manera creativa y aprendiendo habilidades nuevas constantemente, donde tambien aprendi la importancia del trabajo en  equipo, comunicacion y coordinacion.
 Esas caracteristicas son las que anhelo llevar al campo de la programacion.</p>
 <h3 align="left">Contacteme:</h3>
 <p align="left">
@@ -90,31 +90,31 @@ TaTeTi</h4>
 <h3>Certifications</h3>
                 <br>
 <h4 aling="left">Open-BootCamp</h4>
-<figure align="left" style="vertical-align: middle;>
-   <figcaption>
-        Introduction to programming
-   </figcaption>
+<figure align="left" >
+   <p>
+        Introduccion a la programacion
+   <p>
   <a href="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/diplomas_6c4806d6-9e55-44e8-b396-cabd28e99543.pdf" >
     <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/Conceptos%20de%20la%20Programacion.bmp" alt="Introduction to programming"
          width="150px">
          </a>
 </figure>
-<figure  style="vertical-align: middle;>
-    <figcaption>Programming Concepts </figcaption>
+<figure >
+    <p>Conceptos de Programacion</p>
   <a href="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/diplomas_534afcd4-8c4b-4df8-bc2a-92591f79327e.pdf">
     <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/Conceptos%20de%20la%20Programacion.bmp"
         alt="Programming Concepts" width="150px">
   </a>
 </figure>
-<figure align="left" style="vertical-align: middle;>
-    <figcaption>HTML5 y Css</figcaption>
+<figure align="left" >
+    <p>HTML5 y Css</p>
   <a href="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/diplomas_78090069-9fa0-4bff-9854-fcd4a83fc578.pdf">
     <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/Html%20Css.bmp"
         alt="html y Css" width="150px">
     </a>
 </figure>
-<figure align="left" style="vertical-align: middle;>
-    <figcaption>Basic Java</figcaption>
+<figure align="left">
+    <p>Java Basico</p>
   <a href="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/diplomas_32346759-8aac-4f4b-8897-0edf87a830f3.pdf">
     <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/Java%20Basic.bmp" alt="Basic Java" width="150px">
     </a>
@@ -123,32 +123,44 @@ TaTeTi</h4>
 <h4>FreeCodeCamp</h4>
                   <br>
 <figure>
+  <p>Responsive Web Design</p>
     <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/Responsive%20Web%20Design.png"
         alt="certificado Responsive Web Design" width="150px" />
-    <figcaption>Responsive Web Design</figcaption>
 </figure>
-               
+              
 <figure>
+    <p>Algoritmos y estructura de datos</p>
     <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/Js%20Algorithms%20and%20data%20Structures-FCC.png"
         alt="Js Algorithms and Data Structures" width="150px">
-    <figcaption>Js Algorithms and Data Structures</figcaption>
 </figure>
 <hr>
 <h4>Ademmas</h4>
 <br>
 <figure>
-    <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/HTML.pdf" alt="HTML" width="150px">
-    <figcaption>HTML5</figcaption>
+    <p>HTML5</p>
+    <a href="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/HTML.pdf" >
+    <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/HTML5.bmp" alt="HTML5"
+         width="150px">
+         </a>
 </figure>
 <figure>
-    <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/CSS3.pdf" alt="CSS3" width="150px">
-    <figcaption>CSS3</figcaption>
+    <p>CSS3</p>
+   <a href="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/HTML5.bmpf" >
+    <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/CSS3.bmp" alt="HTML5"
+         width="150px">
+         </a>
 </figure>
 <figure>
-    <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/TallerCss.pdf" alt="TallerCss" width="150px">
-    <figcaption>TallerCss</figcaption>
+    <p>Taller Css</p>
+     <a href="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/TallerCss.pdf" >
+    <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/TallerCss3.bmp" alt="HTML5"
+         width="150px">
+         </a>
 </figure>
 <figure>
-    <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/Git%20GitHub.pdf" alt="Git y GitHub" width="150px">
-    <figcaption>Git y GitHub</figcaption>
+    <p>Git y GitHub</p>
+      <a href="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/Git%20GitHub.pdf" >
+    <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/GitGitHub.bmp" alt="HTML5"
+         width="150px">
+         </a>
 </figure>
