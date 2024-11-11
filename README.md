@@ -94,8 +94,8 @@ TaTeTi</h4>
                    <p>
         Tecnicatura Desarrollo Web Full-Stack
    <p>
-  <a href="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/diplomas_6c4806d6-9e55-44e8-b396-cabd28e99543.pdf" >
-    <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/Conceptos%20de%20la%20Programacion.bmp" alt="Introduction to programming"
+  <a href="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/Certificado_Adrian%20Lisbel%20Rivira.pdf" >
+    <img src="https://github.com/DonFierroFsa/DonFierroFsa/blob/main/FullStackNumen.bmp"
          width="150px">
          </a>
 <h4 aling="left">Open-BootCamp</h4>
